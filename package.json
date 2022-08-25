@@ -1,0 +1,23 @@
+{
+  "name": "clean-trash",
+  "version": "1.0.0",
+  "description": "remove dead code and unused variables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saifgo/clean-trash.git"
+  },
+  "keywords": [],
+  "author": "Omar Gorrab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saifgo/clean-trash/issues"
+  },
+  "homepage": "https://github.com/saifgo/clean-trash#readme",
+  "dependencies": {
+    "esprima": "^4.0.1"
+  }
+}
